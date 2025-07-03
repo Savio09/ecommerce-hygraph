@@ -1,6 +1,6 @@
 # E-Commerce Platform with Next.js and GraphCMS
 
-This project is a modern e-commerce web application built using [Next.js](https://nextjs.org/), [GraphCMS](https://graphcms.com/), and [Chakra UI](https://chakra-ui.com/). It provides a seamless shopping experience with dynamic product pages, a fully functional shopping cart, and secure payment integration.
+This project is a modern e-commerce web application built using [Next.js](https://nextjs.org/), [GraphCMS](https://graphcms.com/), and [Chakra UI](https://chakra-ui.com/). It provides a seamless shopping experience with dynamic product pages, a fully functional shopping cart, and secure payment integration. Something i learned on Educative website.
 
 ## Key Features
 
